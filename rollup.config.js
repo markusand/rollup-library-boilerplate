@@ -8,7 +8,6 @@ export default [
 	{
 		input: 'src/main.js',
 		output: {
-			name: 'airtable-client',
 			file: pkg.browser,
 			format: 'umd',
 		},

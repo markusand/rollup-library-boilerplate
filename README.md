@@ -18,4 +18,6 @@ Edit boilerplate files with the new library information
 - `LICENSE.md`
 - `.editorconfig` and `.eslintrc` with preferred options
 
+Add a new origin repository for the library
+
 :tada: Start developing the library!
