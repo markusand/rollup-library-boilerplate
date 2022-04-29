@@ -21,3 +21,11 @@ Edit boilerplate files with the new library information
 Add a new origin repository for the library
 
 :tada: Start developing the library!
+
+## Publish
+
+Set proper version and publish as any other npm package
+
+```bash
+npm run publish
+```
